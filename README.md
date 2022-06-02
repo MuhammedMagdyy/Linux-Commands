@@ -42,8 +42,8 @@ Here're 2 playlists I've recorded to [How to install debian](https://www.youtube
 | `mkdir [Directory / Folder]` | create a new folder |
 | `rmdir [Directory / Folder]` | delete folders |
 | `rm [Directory / File]` | delete files |
-| `rm -r [[Directory / Folder]` | Delete all content in the folder |
-| `rm -r -i [[Directory / Folder]` | ask after deleting |
+| `rm -r [Directory / Folder]` | Delete all content in the folder |
+| `rm -r -i [Directory / Folder]` | ask after deleting |
 ---
 
 ## Operations on Files and Directories

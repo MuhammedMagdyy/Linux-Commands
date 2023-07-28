@@ -17,8 +17,8 @@ Here're 2 playlists I've recorded to [How to install debian](https://www.youtube
 | `who` | shows how many times your device opened |
 | `echo` | prints a string in the terminal |
 | `pwd` | shows where is your current directory |
-| `cd [Directory]` | change your current directory to the choosen one |
-| `cd -` | change your cuurent directory to the previous one |
+| `cd [Directory]` | change your current directory to the chosen one |
+| `cd -` | change your current directory to the previous one |
 | `cd ..` | make a previous step in the directory structure |
 | `ls [Directory]` | list all things in this directory |
 | `man [command]` | display any command in details |
